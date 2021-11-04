@@ -1,3 +1,4 @@
+package CLase1;
 import java.util.Scanner;
 
 public class AnalisisNumeros {

@@ -1,3 +1,4 @@
+package CLase1;
 public class Estudiante {
 
     private Integer id;
