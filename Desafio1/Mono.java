@@ -34,7 +34,7 @@ public class Mono extends Animal {
 
     @Override
     public String toString() {
-        return "{" + " categoria='" + getCategoria() + "'" + " raza='" + getRaza() + "'" + " nombre='" + getNombre()
+        return "{" + " categoria='" + getCategoria() + "'" + " especie='" + getEspecie() + "'" + " nombre='" + getNombre()
                 + "'" + ", raza='" + getRaza() + "'" + "}";
     }
 
@@ -43,7 +43,7 @@ public class Mono extends Animal {
     };
 
     public String transladarse() {
-        return "Se translada en 4 patas";
+        return "En 4 patas";
     };
 
 }

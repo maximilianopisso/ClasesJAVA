@@ -64,7 +64,7 @@ public class Perro extends Animal {
     };
 
     public String transladarse() {
-        return "Se translada en 4 patas";
+        return "En 4 patas";
     };
 
 }
